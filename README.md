@@ -52,4 +52,4 @@ These projects represent my foundation in building robust data-driven applicatio
 
     Email: mohamedalwedaa@gmail.com
 
-    Portfolio: [Link to Interactive Dashboards]
+    Portfolio: (https://app.powerbi.com/view?r=eyJrIjoiNzA1ZjdhNWYtZWM2MS00MjE2LWIyMGItYTcwZjA4NWE2NDMyIiwidCI6IjdjYTIxYjkxLWM3ZGItNDQxMy1iZjZkLTMzMjc1ZGY3NjE1ZCJ9&pageName=8b4d0f2c791cd637e8c0)
