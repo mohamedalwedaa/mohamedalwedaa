@@ -1,55 +1,41 @@
-🚀 Senior Data Analyst | Energy Sector Strategist | Full-Stack Developer
+# ⚡ Systems Architect | Energy Systems Modelling
 
-Transforming complex datasets into strategic intelligence with 10+ years of technical excellence.
+Designing software architectures and Digital Twins for complex energy systems through mathematical modelling, stochastic simulation, and decision-support engineering.
 
-Expert in Power BI, SQL, and Data Modeling, specializing in Energy Transition and Strategic Business Intelligence aligned with Saudi Vision 2030. My background as a Tech Founder and Software Developer allows me to bridge the gap between robust database architecture and high-level executive insights.
-📊 Featured Analytics Projects
-Saudi Arabia Energy Transition Strategic Outlook (2010-2024)
+My work focuses on understanding how large-scale infrastructure behaves under uncertainty and translating that understanding into modular software capable of supporting future grid planning.
 
-    Focus: Grid Resilience, Peak Load Management, and Economic Decoupling.
+> *"Rather than building software around today's assumptions, I design architectures that continue to evolve as technologies, regulations, and markets change."*
 
-    Tech Stack: Power BI, DAX, Kimball Star Schema, SQL.
+---
 
-    Key Insight: Modeled the decoupling of GDP growth from energy intensity in the Saudi market.
+### 🚀 Featured Work: National-scale Digital Twin
+Designed a modular Digital Twin capable of simulating approximately **1 million EVs** across more than **60,000 distribution transformers**. 
 
-Canada Energy Transition Analysis (2008–2025)
+**Core capabilities include:**
+* ⚙️ Bottom-up stochastic modelling
+* 🎲 Monte Carlo simulation
+* 🌡️ Transformer thermal modelling
+* 🔄 Grid flexibility analysis
+* 🚗 Vehicle-to-Grid coordination
+* 🏗️ Infrastructure planning
+* 🧩 Modular software architecture
 
-    Focus: Renewable energy adoption and GHG emissions correlation.
+---
 
-    Tech Stack: Tableau, SQL, R, Excel.
+### 🛠️ Technical Stack & Interests
+* **Domains:** Systems Architecture, Energy Systems Modelling, Digital Twins, Grid Flexibility, Decision Support.
+* **Languages & DBs:** Python, SQL, VB.NET, Oracle, SQL Server
+* **Data & Analytics:** Power BI, Tableau
+* **Tools:** Git
 
-🛠️ Technical Toolbox
+---
 
-    Data Analytics & BI: Power BI (Advanced DAX), Tableau, SQL (SQL Server/Oracle), Excel (Power Query).
+### 📚 Research & Intellectual Property
+* **Published Research:** [Zenodo DOI: 10.5281/zenodo.21400745](https://doi.org/10.5281/zenodo.21400745)
+* **IP Registration:** EU Registered Intellectual Property (BOIP i-DEPOT #161617)
 
-    Database Architecture: Star Schema Modeling, ETL Processes, Database Administration (Oracle Certified).
+---
 
-    Software Development: VB.NET (WinForms), .NET Framework, SDLC Management.
-
-    Languages: R, Python (Basics), SQL.
-
-🏛️ Legacy Software Engineering Projects (Foundational)
-
-These projects represent my foundation in building robust data-driven applications for enterprise clients.
-
-    🏫 School Accounting System: Full-scale financial and administrative management tool (VB.NET & SQL Server).
-
-    🕋 Omra & Travel Management: Complex booking and finance tracking systems for high-traffic agencies.
-
-    🎫 Ticket Management: Specialized solution for passenger logistics and currency exchange.
-
-🎓 Education & Professional Certifications
-
-    B.Sc. (Honours) in Computer Science & Statistics | University of Gezira, Sudan.
-
-    Google Data Analytics Professional Certificate | Coursera.
-
-    Microsoft Power BI Data Analyst Associate | Training & Certification.
-
-📫 Let's Connect
-
-    LinkedIn: linkedin.com/in/mohammedalwedaa
-
-    Email: mohamedalwedaa@gmail.com
-
-    Portfolio: (https://app.powerbi.com/view?r=eyJrIjoiNzA1ZjdhNWYtZWM2MS00MjE2LWIyMGItYTcwZjA4NWE2NDMyIiwidCI6IjdjYTIxYjkxLWM3ZGItNDQxMy1iZjZkLTMzMjc1ZGY3NjE1ZCJ9&pageName=8b4d0f2c791cd637e8c0)
+### 📫 Let's Connect
+* 💼 [LinkedIn](https://www.linkedin.com/in/mohammedalwedaa)
+* ✉️ mohamedalwedaa@gmail.com
