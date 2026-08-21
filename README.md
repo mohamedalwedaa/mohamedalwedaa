@@ -29,7 +29,7 @@ A modular physics-based simulation framework for studying large-scale EV-grid co
 * Modular software architecture
 * Scenario and decision-support analysis
 
-**Research:** [Zenodo DOI](https://zenodo.org/records/21401703) , [ResearchGate](https://doi.org/10.13140/RG.2.2.11308.12163) 
+**Research:** [Zenodo DOI](https://doi.org/10.5281/zenodo.21400746) , [Earlier Technical Roadmap ResearchGate](https://doi.org/10.13140/RG.2.2.11308.12163) 
 , **Interactive Architecture:** [V2G Digital Twin Explorer](https://riyadh-v2g-digital-twin-architecture-explorer.streamlit.app/)
 
 > The framework is a research and simulation environment. Synthetic or representative network data are used where proprietary utility topology is unavailable; the distinction between simulation, validation, and real-world deployment is explicit.
