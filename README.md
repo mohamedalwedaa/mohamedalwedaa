@@ -30,7 +30,7 @@ A modular physics-based simulation framework for studying large-scale EV-grid co
 * Scenario and decision-support analysis
 
 **Research:** [Zenodo DOI](https://zenodo.org/records/21401703) , [ResearchGate](https://doi.org/10.13140/RG.2.2.11308.12163) 
-**Interactive Architecture:** [V2G Digital Twin Explorer](https://riyadh-v2g-digital-twin-architecture-explorer.streamlit.app/)
+, **Interactive Architecture:** [V2G Digital Twin Explorer](https://riyadh-v2g-digital-twin-architecture-explorer.streamlit.app/)
 
 > The framework is a research and simulation environment. Synthetic or representative network data are used where proprietary utility topology is unavailable; the distinction between simulation, validation, and real-world deployment is explicit.
 
@@ -52,7 +52,7 @@ A longitudinal energy-transition analysis combining energy, emissions, renewable
 * Interactive analytical dashboards
 
 **Dashboard:** [View the Tableau Dashboard](https://public.tableau.com/views/CanadaEnergyTransitionDashboard2008-2025/CanadaEmissionsTrend20082025?:language=en-US&:display_count=n&:origin=viz_share_link)
-
+, **Report:** [PDF](https://drive.google.com/file/d/1385m3tN8N_g2u7Z0uzlsMg6-NrnotRdp/view?usp=drive_link)
 ---
 
 ### 🇸🇦 Saudi Arabia Energy Transition Deep Analysis (2010–2025) — Strategic Outlook
@@ -69,12 +69,12 @@ An analytical Power BI project examining Saudi Arabia's electricity system, gene
 * Grid efficiency
 * Regional demand patterns
 * Energy intensity and economic indicators
-
+  
 **Dashboard:** [View the Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNzA1ZjdhNWYtZWM2MS00MjE2LWIyMGItYTcwZjA4NWE2NDMyIiwidCI6IjdjYTIxYjkxLWM3ZGItNDQxMy1iZjZkLTMzMjc1ZGY3NjE1ZCJ9&pageName=8b4d0f2c791cd637e8c0)
-
+, *Report:* [PDF](https://drive.google.com/file/d/1S1JuZwHsmKkq7IF11-oVOryBTLCvA3jX/view?usp=drive_link)
 ---
 
-## 💻 Software & Database Systems
+## 💻 **Software & Database Systems**
 
 Before moving deeper into energy systems and analytics, I developed and delivered business software using **VB.NET and SQL Server**, including:
 
@@ -85,14 +85,16 @@ Desktop application for school administration, accounting, reporting, and operat
 **Technology:** VB.NET • SQL Server
 [Download ZIP](https://drive.google.com/file/d/0B9lWyv9gRdp1UEE3TEc3LU5BRDA/view?usp=drive_link&resourcekey=0-NgnMetH5Gi9WZJSmlfMang)
 
-### ✈️ Travel Agency & Omra Management System
+### ✈️🕋 Travel Agency & Omra Management System
 
 Desktop management system for travel operations, customer records, packages, and financial workflows.
+Desktop management system for Pilgrim details, package management, and finance tracking .
 
 **Technology:** VB.NET • SQL Server
-[Download ZIP](https://drive.google.com/file/d/0B9lWyv9gRdp1YkhoOWQxcEFwZWs/view?usp=drive_link&resourcekey=0-HBduCbOgrEc8Nzf14_rh7A)
+[Download TAS ZIP](https://drive.google.com/file/d/0B9lWyv9gRdp1YkhoOWQxcEFwZWs/view?usp=drive_link&resourcekey=0-HBduCbOgrEc8Nzf14_rh7A) 
+, [Download OMS ZIP](https://drive.google.com/file/d/0B9lWyv9gRdp1SmFFMWJaQ2tnY1k/view?usp=drive_link&resourcekey=0-oMZCNM5DucYt8rmmGrvsWQ)
 
-and other Software & Database Systems were lost due to regional conflict
+Additional legacy enterprise systems are not publicly available due to loss of historical project records.
 
 ### 🗄️ Database Administration
 
