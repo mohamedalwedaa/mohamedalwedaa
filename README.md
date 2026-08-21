@@ -148,6 +148,7 @@ Oracle Database Administration training/certification with practical database de
 
 **EU Registered Intellectual Property**
 BOIP i-DEPOT #161617
+a timestamped deposit establishing evidence of authorship/creation date; not an examined patent or formal IP grant.
 
 My research direction focuses on credible modelling of **future electricity systems, distribution-level flexibility, EV-grid coordination, digital twins, and decision-support systems**.
 
