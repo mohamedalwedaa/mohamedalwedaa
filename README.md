@@ -87,8 +87,7 @@ Desktop application for school administration, accounting, reporting, and operat
 
 ### ✈️🕋 Travel Agency & Omra Management System
 
-Desktop management system for travel operations, customer records, packages, and financial workflows.
-Desktop management system for Pilgrim details, package management, and finance tracking .
+Desktop management systems for travel and Umrah operations, including customer/pilgrim records, package management, booking workflows, and financial tracking.
 
 **Technology:** VB.NET • SQL Server
 [Download TAS ZIP](https://drive.google.com/file/d/0B9lWyv9gRdp1YkhoOWQxcEFwZWs/view?usp=drive_link&resourcekey=0-HBduCbOgrEc8Nzf14_rh7A) 
@@ -148,7 +147,7 @@ Oracle Database Administration training/certification with practical database de
 
 **EU Registered Intellectual Property**
 BOIP i-DEPOT #161617
-a timestamped deposit establishing evidence of authorship/creation date; not an examined patent or formal IP grant.
+Timestamped intellectual-property deposit; not a patent grant.
 
 My research direction focuses on credible modelling of **future electricity systems, distribution-level flexibility, EV-grid coordination, digital twins, and decision-support systems**.
 
