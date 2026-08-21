@@ -1,41 +1,183 @@
-# ⚡ Systems Architect | Energy Systems Modelling
+# 👋 Hi, I'm Mohamed Alwedaa
 
-Designing software architectures and Digital Twins for complex energy systems through mathematical modelling, stochastic simulation, and decision-support engineering.
+**Systems Architect | Energy Systems Modelling | Data & Software Engineering**
 
-My work focuses on understanding how large-scale infrastructure behaves under uncertainty and translating that understanding into modular software capable of supporting future grid planning.
+I design software, data, and simulation systems for complex infrastructure problems, with a focus on the intersection of **computing, mathematical modelling, data analytics, and energy systems**.
 
-> *"Rather than building software around today's assumptions, I design architectures that continue to evolve as technologies, regulations, and markets change."*
+My current work focuses on **Digital Twins, V2G/VPP, grid flexibility, stochastic simulation, and decision-support systems** for future electricity networks.
 
----
-
-### 🚀 Featured Work: National-scale Digital Twin
-Designed a modular Digital Twin capable of simulating approximately **1 million EVs** across more than **60,000 distribution transformers**. 
-
-**Core capabilities include:**
-* ⚙️ Bottom-up stochastic modelling
-* 🎲 Monte Carlo simulation
-* 🌡️ Transformer thermal modelling
-* 🔄 Grid flexibility analysis
-* 🚗 Vehicle-to-Grid coordination
-* 🏗️ Infrastructure planning
-* 🧩 Modular software architecture
+I also have a strong software and database foundation, including **VB.NET, SQL Server, Oracle, Python, SQL, Power BI, Tableau, and R**.
 
 ---
 
-### 🛠️ Technical Stack & Interests
-* **Domains:** Systems Architecture, Energy Systems Modelling, Digital Twins, Grid Flexibility, Decision Support.
-* **Languages & DBs:** Python, SQL, VB.NET, Oracle, SQL Server
-* **Data & Analytics:** Power BI, Tableau
-* **Tools:** Git
+## 🔬 Featured Work
+
+### ⚡ V2G Digital Twin & Grid Flexibility
+
+A modular physics-based simulation framework for studying large-scale EV-grid coordination and distribution-level flexibility.
+
+**Key elements:**
+
+* ~1 million EVs
+* 60,000+ distribution transformers
+* Bottom-up stochastic EV modelling
+* Monte Carlo simulation
+* Transformer thermal modelling
+* V2G / VPP coordination
+* Market-informed dispatch
+* Grid flexibility assessment
+* Modular software architecture
+* Scenario and decision-support analysis
+
+**Research:** [Zenodo DOI](https://zenodo.org/records/21401703) , [ResearchGate](https://doi.org/10.13140/RG.2.2.11308.12163) 
+**Interactive Architecture:** [V2G Digital Twin Explorer](https://riyadh-v2g-digital-twin-architecture-explorer.streamlit.app/)
+
+> The framework is a research and simulation environment. Synthetic or representative network data are used where proprietary utility topology is unavailable; the distinction between simulation, validation, and real-world deployment is explicit.
 
 ---
 
-### 📚 Research & Intellectual Property
-* **Published Research:** [Zenodo DOI: 10.5281/zenodo.21400745](https://doi.org/10.5281/zenodo.21400745)
-* **IP Registration:** EU Registered Intellectual Property (BOIP i-DEPOT #161617)
+### 🇨🇦 Canada Energy Transition Analysis (2008–2025)
+
+A longitudinal energy-transition analysis combining energy, emissions, renewable generation, population, and economic indicators.
+
+**Tools:** Tableau • R • Excel
+
+**Focus:**
+
+* Energy generation and emissions trends
+* Renewable-energy transition
+* Provincial comparisons
+* GHG intensity
+* Socioeconomic context
+* Interactive analytical dashboards
+
+**Dashboard:** [View the Tableau Dashboard](https://public.tableau.com/views/CanadaEnergyTransitionDashboard2008-2025/CanadaEmissionsTrend20082025?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 ---
 
-### 📫 Let's Connect
-* 💼 [LinkedIn](https://www.linkedin.com/in/mohammedalwedaa)
-* ✉️ mohamedalwedaa@gmail.com
+### 🇸🇦 Saudi Arabia Energy Transition Deep Analysis (2010–2025) — Strategic Outlook
+
+An analytical Power BI project examining Saudi Arabia's electricity system, generation mix, renewable growth, grid indicators, regional demand structure, and energy-efficiency trends.
+
+**Tools:** Power BI • Excel • Data Analysis
+
+**Focus:**
+
+* Generation and fuel-mix evolution
+* Renewable-energy growth
+* Peak load and reserve margin
+* Grid efficiency
+* Regional demand patterns
+* Energy intensity and economic indicators
+
+**Dashboard:** [View the Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNzA1ZjdhNWYtZWM2MS00MjE2LWIyMGItYTcwZjA4NWE2NDMyIiwidCI6IjdjYTIxYjkxLWM3ZGItNDQxMy1iZjZkLTMzMjc1ZGY3NjE1ZCJ9&pageName=8b4d0f2c791cd637e8c0)
+
+---
+
+## 💻 Software & Database Systems
+
+Before moving deeper into energy systems and analytics, I developed and delivered business software using **VB.NET and SQL Server**, including:
+
+### 🏫 School Accounting System
+
+Desktop application for school administration, accounting, reporting, and operational workflows.
+
+**Technology:** VB.NET • SQL Server
+[Download ZIP](https://drive.google.com/file/d/0B9lWyv9gRdp1UEE3TEc3LU5BRDA/view?usp=drive_link&resourcekey=0-NgnMetH5Gi9WZJSmlfMang)
+
+### ✈️ Travel Agency & Omra Management System
+
+Desktop management system for travel operations, customer records, packages, and financial workflows.
+
+**Technology:** VB.NET • SQL Server
+[Download ZIP](https://drive.google.com/file/d/0B9lWyv9gRdp1YkhoOWQxcEFwZWs/view?usp=drive_link&resourcekey=0-HBduCbOgrEc8Nzf14_rh7A)
+
+and other Software & Database Systems were lost due to regional conflict
+
+### 🗄️ Database Administration
+
+Oracle Database Administration training/certification with practical database design and management experience.
+
+---
+
+## 🛠️ Technical Stack
+
+**Systems & Modelling**
+
+* Systems Architecture
+* Digital Twins
+* Energy Systems Modelling
+* V2G / VPP
+* Grid Flexibility
+* Stochastic & Probabilistic Modelling
+* Scenario Analysis
+* Decision Support
+
+**Programming & Databases**
+
+* Python
+* SQL
+* VB.NET
+* SQL Server
+* Oracle
+
+**Data & Analytics**
+
+* Power BI
+* Tableau
+* Excel
+* R
+
+**Engineering Practices**
+
+* Modular architecture
+* Reproducible research
+* Data validation
+* Simulation
+* Technical documentation
+* Git / GitHub
+
+---
+
+## 📚 Research & Intellectual Property
+
+**V2G / Digital Twin Research**
+[Zenodo](https://zenodo.org/records/21401703)
+
+**EU Registered Intellectual Property**
+BOIP i-DEPOT #161617
+
+My research direction focuses on credible modelling of **future electricity systems, distribution-level flexibility, EV-grid coordination, digital twins, and decision-support systems**.
+
+---
+
+## 🎯 Current Research Interests
+
+* Distribution-system flexibility
+* Vehicle-to-Grid coordination
+* Virtual Power Plants
+* Digital Twins for power systems
+* Stochastic simulation
+* Energy-transition analytics
+* Future electricity markets
+* Infrastructure planning
+* Data-driven decision support
+* AI-enabled systems and intelligent infrastructure
+
+---
+
+## 📫 Connect
+
+* **LinkedIn:** [linkedin.com/in/mohammedalwedaa](https://www.linkedin.com/in/mohammedalwedaa)
+* **Email:** [mohamedalwedaa@gmail.com](mailto:mohamedalwedaa@gmail.com)
+* **Research:** [Zenodo](https://zenodo.org/records/21401703)
+
+---
+
+### Philosophy
+
+> **Build systems that remain useful as technologies, data, markets, and assumptions change.**
+
+My goal is to build credible systems at the intersection of:
+
+**DATA + COMPUTING + ENERGY SYSTEMS**
