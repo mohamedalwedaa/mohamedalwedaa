@@ -144,7 +144,7 @@ Oracle Database Administration training/certification with practical database de
 ## 📚 Research & Intellectual Property
 
 **V2G / Digital Twin Research**
-[Zenodo](https://zenodo.org/records/21401703)
+[Zenodo](https://doi.org/10.5281/zenodo.21400746)
 
 **EU Registered Intellectual Property**
 BOIP i-DEPOT #161617
@@ -173,7 +173,7 @@ My research direction focuses on credible modelling of **future electricity syst
 
 * **LinkedIn:** [linkedin.com/in/mohammedalwedaa](https://www.linkedin.com/in/mohammedalwedaa)
 * **Email:** [mohamedalwedaa@gmail.com](mailto:mohamedalwedaa@gmail.com)
-* **Research:** [Zenodo](https://zenodo.org/records/21401703)
+* **Research:** [Zenodo](https://doi.org/10.5281/zenodo.21400746)
 
 ---
 
