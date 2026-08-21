@@ -76,7 +76,7 @@ An analytical Power BI project examining Saudi Arabia's electricity system, gene
 
 ## 💻 **Software & Database Systems**
 
-Before moving deeper into energy systems and analytics, I have analyzed business requirements, assessed system impacts and dependencies, and translated functional needs into technical specifications for the design, development, and support of business applications using **VB.NET and SQL Server**, including:
+I developed and delivered database-driven business applications using VB.NET and SQL Server, covering requirements analysis, system design, implementation, testing, deployment, and support.
 
 ### 🏫 School Accounting System
 
