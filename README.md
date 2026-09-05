@@ -35,7 +35,17 @@ A modular physics-based simulation framework for studying large-scale EV-grid co
 > The framework is a research and simulation environment. Synthetic or representative network data are used where proprietary utility topology is unavailable; the distinction between simulation, validation, and real-world deployment is explicit.
 
 ---
+### ☁️ V2G Cloud Reference Architecture (AWS)
 
+A serverless, event-driven cloud architecture applying the same energy-systems
+scenario modelling to a production-grade AWS implementation — built and verified
+live in strict phased sequence (API Gateway, Lambda, Cognito, DynamoDB, S3,
+EventBridge, SQS, Step Functions), with an independent code-level audit prior
+to completion.
+
+*Private repository — architecture summary and demonstration available on request.*
+
+---
 ### 🇨🇦 Canada Energy Transition Analysis (2008–2025)
 
 A longitudinal energy-transition analysis combining energy, emissions, renewable generation, population, and economic indicators.
@@ -138,12 +148,24 @@ Oracle Database Administration training/certification with practical database de
 * Technical documentation
 * Git / GitHub
 
+**Cloud Solutions**
+
+* AWS Cloud Architectur
+* Serverless Computing
+* Event-Driven Architecture
+* Data Architecture
+* Data Lakes
+
 ---
 
 ## 📚 Research & Intellectual Property
 
+**Regulatory Consultation**
+Submitted a formal technical response to ESB Networks/EirGrid's PR6 TSO/DSO
+Joint Incentive Multi-Year Plan (2027–2030) public consultation, September 2026.
+
 **V2G / Digital Twin Research**
-[Zenodo](https://doi.org/10.5281/zenodo.21400746)
+[Zenodo](https://doi.org/10.5281/zenodo.21400746) , [Researchgate](https://www.researchgate.net/publication/400350737_Optimizing_Grid_Resilience_A_Data-Driven_V2G_Framework_for_Riyadh_Vision_2030_Scenarios)
 
 **EU Registered Intellectual Property**
 BOIP i-DEPOT #161617
